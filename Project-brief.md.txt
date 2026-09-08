@@ -1,0 +1,13 @@
+# My project brief
+
+## The Question 
+
+## Which Primary Health Centres (PHCs) in Oyo State are located within 500 m of mapped water bodies and therefore potentially exposed to flooding?
+
+## The data I need  
+
+-GRID3 Nigeria Health Facilities v2.0 -https://data.grid3.org/datasets/grid3-nga-health-facilities-v2-0 - 22.7mb
+
+-Nigeria river dataset -hotosm_nga_waterways_lines_shp-https://data.humdata.org/dataset/hotosm_nga_waterways 70.2MB
+
+-Nigeria administrative boundary-https://data.grid3.org/datasets/GRID3::grid3-nga-operational-state-boundaries-/about 27.4MB
